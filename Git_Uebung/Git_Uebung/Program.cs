@@ -18,9 +18,25 @@ namespace Git_Uebung
 
             Console.WriteLine("Bitte geben Sie etwas ein:");
             Console.ReadLine();
+            Console.WriteLine("Bitte geben Sie etwas ein:");
+            Console.WriteLine("Bitte geben Sie etwas ein:");
+            Console.WriteLine("Bitte geben Sie etwas ein:");
+            Console.WriteLine("Bitte geben Sie etwas ein:");
+            Console.WriteLine("Bitte geben Sie etwas ein:");
+            Console.WriteLine("Bitte geben Sie etwas ein:");
+            Console.WriteLine("Bitte geben Sie etwas ein:");
+            Console.WriteLine("Bitte geben Sie etwas ein:");
+            Console.WriteLine("**************************");
+            Console.WriteLine("**************************");
+            Console.WriteLine("**************************");
+            Console.WriteLine("**************************");
+            Console.WriteLine("**************************");
+            Console.WriteLine("**************************");
+            Console.WriteLine("**************************");
 
 
             //
+
 
 
 
