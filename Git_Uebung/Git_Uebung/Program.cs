@@ -16,6 +16,8 @@ namespace Git_Uebung
 
             //TODO: New Feature here!
 
+            Console.WriteLine("Bitte geben Sie etwas ein:");
+            Console.ReadLine();
 
 
             //
