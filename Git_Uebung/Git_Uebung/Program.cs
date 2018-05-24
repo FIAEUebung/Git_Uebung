@@ -20,7 +20,20 @@ namespace Git_Uebung
 
             //
 
+            //************************************************//
 
+
+
+            // Master Branche here
+
+
+
+            Console.WriteLine("This will be my firste merge");
+
+
+
+
+            //
 
         }
     }

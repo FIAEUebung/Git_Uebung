@@ -1,0 +1,7 @@
+C:\Users\Sebastian Rogacki\source\Working\Git_Uebungen\Git_Uebung\Git_Uebung\bin\Debug\Git_Uebung.exe.config
+C:\Users\Sebastian Rogacki\source\Working\Git_Uebungen\Git_Uebung\Git_Uebung\bin\Debug\Git_Uebung.exe
+C:\Users\Sebastian Rogacki\source\Working\Git_Uebungen\Git_Uebung\Git_Uebung\bin\Debug\Git_Uebung.pdb
+C:\Users\Sebastian Rogacki\source\Working\Git_Uebungen\Git_Uebung\Git_Uebung\obj\Debug\Git_Uebung.csprojAssemblyReference.cache
+C:\Users\Sebastian Rogacki\source\Working\Git_Uebungen\Git_Uebung\Git_Uebung\obj\Debug\Git_Uebung.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Rogacki\source\Working\Git_Uebungen\Git_Uebung\Git_Uebung\obj\Debug\Git_Uebung.exe
+C:\Users\Sebastian Rogacki\source\Working\Git_Uebungen\Git_Uebung\Git_Uebung\obj\Debug\Git_Uebung.pdb
