@@ -16,6 +16,23 @@ namespace Git_Uebung
 
             //TODO: New Feature here!
 
+            Console.WriteLine("Bitte geben Sie etwas ein:");
+            Console.ReadLine();
+            Console.WriteLine("Bitte geben Sie etwas ein:");
+            Console.WriteLine("Bitte geben Sie etwas ein:");
+            Console.WriteLine("Bitte geben Sie etwas ein:");
+            Console.WriteLine("Bitte geben Sie etwas ein:");
+            Console.WriteLine("Bitte geben Sie etwas ein:");
+            Console.WriteLine("Bitte geben Sie etwas ein:");
+            Console.WriteLine("Bitte geben Sie etwas ein:");
+            Console.WriteLine("Bitte geben Sie etwas ein:");
+            Console.WriteLine("**************************");
+            Console.WriteLine("**************************");
+            Console.WriteLine("**************************");
+            Console.WriteLine("**************************");
+            Console.WriteLine("**************************");
+            Console.WriteLine("**************************");
+            Console.WriteLine("**************************");
 
 
             //
@@ -34,6 +51,7 @@ namespace Git_Uebung
 
 
             //
+
 
         }
     }
